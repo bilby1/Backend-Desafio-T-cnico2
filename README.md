@@ -26,14 +26,25 @@ Desenvolver uma API RESTful para autenticação de usuários, que permita opera�
   - POST: https://backend-desafio-t-cnico2.vercel.app/auth
 
 ### Cadastro: /signup
-![](https://github.com/bilby1/Backend-Desafio-T-cnico2/commit/e13a842b5020fb115b46fc84965f2c6dab3bf2c2#diff-bf4e1f5438deb9cf2a86c9b025c1879f86d06f9af05b84eb9a75f8df0e4d1a2c)
-![](https://github.com/bilby1/Backend-Desafio-T-cnico2/commit/e13a842b5020fb115b46fc84965f2c6dab3bf2c2#diff-7773dac784190a943e7a1d8ba314ff0084b44fe5aa9e6a2aa87ede5d99b0d506)
-![](https://github.com/bilby1/Backend-Desafio-T-cnico2/commit/e13a842b5020fb115b46fc84965f2c6dab3bf2c2#diff-6e3de34fe33ad924f78443b2c4aa74867df6c9487841f12dbe694d68dbfcc651)
+1-Criacao de cadastro
+![1-Criacao de cadastro](https://github.com/bilby1/Backend-Desafio-T-cnico2/assets/61907038/b2f6bf45-f1fa-4d5f-aeba-f0cdbc61ab6b)
+
+2-Email já existente
+![2-Email já existente](https://github.com/bilby1/Backend-Desafio-T-cnico2/assets/61907038/381f6d76-b1fe-492b-984b-b1858803d905)
+
+3-Simulando Armazenamento
+![3-Simulando Armazenamento](https://github.com/bilby1/Backend-Desafio-T-cnico2/assets/61907038/46fb8cd7-3a00-4b1c-8d9a-9ee7ea34e42c)
 
 ##
 ### Autenticação: /signin
-![](https://github.com/bilby1/Backend-Desafio-T-cnico2/commit/e13a842b5020fb115b46fc84965f2c6dab3bf2c2#diff-3618b0c0cce0bdd53a356820677258b59734bdbddf4f934365d38102acd85def)
-![](https://github.com/bilby1/Backend-Desafio-T-cnico2/commit/e13a842b5020fb115b46fc84965f2c6dab3bf2c2#diff-4ed581596a28c24100cea0f2b00f7e65a3cd90f0b325007149b195f65e72083b)
-![](https://github.com/bilby1/Backend-Desafio-T-cnico2/commit/e13a842b5020fb115b46fc84965f2c6dab3bf2c2#diff-bd42e38d2e4c1e9db89d2b738f78bfde1aa8ea9d588bf6bbb3767d8fca560800)
+4-Autenticação de Usuario
+![4-Autenticação de Usuario](https://github.com/bilby1/Backend-Desafio-T-cnico2/assets/61907038/088e611d-7d1d-4de5-a857-9406e980ddfd)
+
+5-Autenticação de Usuario - ERRO1
+![5-Autenticação de Usuario - ERRO1](https://github.com/bilby1/Backend-Desafio-T-cnico2/assets/61907038/fa1587a7-6553-4a42-b504-8645d7e5e14f)
+
+6-Autenticação de Usuario - ERRO2
+![6-Autenticação de Usuario - ERRO2](https://github.com/bilby1/Backend-Desafio-T-cnico2/assets/61907038/89f3f3db-bf38-43cc-a38c-c9e4a53e5211)
+
 ##
 ## Autor: Marcio Bilby
